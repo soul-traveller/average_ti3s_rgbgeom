@@ -46,7 +46,7 @@ Fixes included:
  - Warnings when patches are missing in any file
 
 Author:
-  Knut Larsson with support from ChatGPT (OpenAI), 2025
+  Soul-Traveller with support from ChatGPT (OpenAI), 2025
 """
 
 import sys
